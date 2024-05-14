@@ -6,4 +6,4 @@ Walls have effects but do not know what they will do yet but will by end of the 
   Yellow - ?
   Green - ?
   Purple - ?
-
+Race for each player to complete the level 10 levels

@@ -1,1 +1,1 @@
-Mazerunner Game 
+Maze Game 
